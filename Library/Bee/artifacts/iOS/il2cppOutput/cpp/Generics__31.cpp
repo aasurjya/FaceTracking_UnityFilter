@@ -43469,6 +43469,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* IDragAndDropController_1_GetSo
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IProducerConsumerCollectionDebugView_1__ctor_m717C88CDC5AE19CEECED160409EA2DF865B35B54_gshared (IProducerConsumerCollectionDebugView_1_t6A0BFB1A99E07AC953A2B36EC440B2386D28313E* __this, RuntimeObject* ___0_collection, const RuntimeMethod* method) 
 {
 	{

@@ -78,6 +78,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -87,26 +89,30 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 16808}
     - Class: 114
-      Script: {instanceID: 17968}
+      Script: {instanceID: 17970}
     - Class: 114
-      Script: {instanceID: 18950}
+      Script: {instanceID: 18952}
     - Class: 114
-      Script: {instanceID: 19548}
+      Script: {instanceID: 19550}
     - Class: 114
-      Script: {instanceID: 19664}
+      Script: {instanceID: 19666}
     - Class: 114
-      Script: {instanceID: 22212}
+      Script: {instanceID: 22214}
     - Class: 114
-      Script: {instanceID: 24650}
+      Script: {instanceID: 24652}
     - Class: 114
-      Script: {instanceID: 24918}
+      Script: {instanceID: 24920}
     - Class: 114
-      Script: {instanceID: 25156}
+      Script: {instanceID: 25158}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1504,4 +1510,4 @@ ScriptsOnlyBuild:
   platform: 9
   scenePathNames:
   - Assets/faceTracking.unity
-  playerPath: /Users/dev_ash/Downloads/arfoundation-samples-main/FaceTracking/apks
+  playerPath: /Users/dev_ash/Downloads/apks
